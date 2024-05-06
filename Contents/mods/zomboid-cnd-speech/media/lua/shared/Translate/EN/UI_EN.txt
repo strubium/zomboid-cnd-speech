@@ -98,6 +98,7 @@ UI_Phrases_HasACold22 = "I'm so congested",
 UI_Phrases_HasACold23 = "I feel like I'm suffocating",
 UI_Phrases_HasACold24 = "this cold is making me miserable",
 UI_Phrases_HasACold25 = "I can't wait to be healthy again",
+UI_Phrases_HasACold26 = "my head feels hot",
 
 --UI_Phrases_Windchill
 UI_Config_Windchill = "Windchill",
@@ -146,6 +147,10 @@ UI_Phrases_Hyperthermia14 = "I'm starting to hallucinate",
 UI_Phrases_Hyperthermia15 = "this heat is unbearable",
 UI_Phrases_Hyperthermia16 = "I need to get indoors",
 UI_Phrases_Hyperthermia17 = "I'm feeling really dizzy",
+UI_Phrases_Hyperthermia18 = "I'm feeling dizzy",
+UI_Phrases_Hyperthermia19 = "I hate the heat",
+UI_Phrases_Hyperthermia20 = "it's way too hot out",
+UI_Phrases_Hyperthermia21 = "it's way too hot today",
 
 --UI_Phrases_Endurance
 UI_Config_Endurance = "Endurance",
@@ -199,6 +204,15 @@ UI_Phrases_Bleeding19 = "I'm fading fast",
 UI_Phrases_Bleeding20 = "I need medical attention",
 UI_Phrases_Bleeding21 = "I'm losing consciousness",
 UI_Phrases_Bleeding22 = "I'm in a lot of pain",
+UI_Phrases_Bleeding23 = "<SWEAR> I'm in a lot of pain",
+UI_Phrases_Bleeding24 = "<SWEAR> I can't feel my limbs",
+UI_Phrases_Bleeding25 = "I don't want to die!",
+UI_Phrases_Bleeding26 = "<Pain>, this is a lot of blood",
+UI_Phrases_Bleeding27 = "<Pain>, I'm losing too much blood",
+UI_Phrases_Bleeding28 = "<SWEAR> I need to stop the bleeding",
+UI_Phrases_Bleeding29 = "somebody please help me",
+UI_Phrases_Bleeding30 = "somebody help me",
+UI_Phrases_Bleeding31 = "I'm seeing spots",
 
 --UI_Phrases_FoodEaten
 UI_Config_FoodEaten = "Food Eaten",
@@ -224,7 +238,6 @@ UI_Phrases_FoodEaten19 = "I am going to need a bigger pants size",
 UI_Phrases_FoodEaten20 = "I won't be hungry for the rest of the day",
 UI_Phrases_FoodEaten21 = "I need to hit the gym after that meal".
 
-
 --UI_Phrases_Injured
 UI_Config_Injured = "Injured",
 UI_Phrases_Injured1 = "I should treat this soon",
@@ -234,6 +247,7 @@ UI_Phrases_Injured4 = "that's going to leave a mark",
 UI_Phrases_Injured5 = "I am going to need first-aid",
 UI_Phrases_Injured6 = "I need medical attention",
 UI_Phrases_Injured7 = "I am going to need some first-aid",
+UI_Phrases_Injured8 = "I need some painkillers",
 
 --UI_Phrases_Unhappy
 UI_Config_Unhappy = "Unhappy",
@@ -261,8 +275,11 @@ UI_Phrases_Unhappy21 = "I don't see the point in anything",
 UI_Phrases_Unhappy22 = "why bother?",
 UI_Phrases_Unhappy23 = "I feel so alone",
 UI_Phrases_Unhappy24 = "I'm tired of pretending everything is okay",
-UI_Phrases_Unhappy25 = "I don't know how much longer I can keep going".
-
+UI_Phrases_Unhappy25 = "I don't know how much longer I can keep going",
+UI_Phrases_Unhappy26 = "this isn't okay",
+UI_Phrases_Unhappy27 = "things won't get better",
+UI_Phrases_Unhappy28 = "I miss <FOOD>",
+UI_Phrases_Unhappy29 = "life is just a sea of disappointment",
 
 --UI_Phrases_Wet
 UI_Config_Wet = "Wet",
@@ -272,6 +289,7 @@ UI_Phrases_Wet3 = "I am soaking wet",
 UI_Phrases_Wet4 = "<SARCASM>, I am soaking wet",
 UI_Phrases_Wet5 = "I will catch a cold at this rate",
 UI_Phrases_Wet6 = "I am drenched",
+UI_Phrases_Wet7 = "<SWEAR>, I am drenched",
 
 --UI_Phrases_Sick
 UI_Config_Sick = "Sick",
@@ -283,6 +301,11 @@ UI_Phrases_Sick5 = "I feel sick",
 UI_Phrases_Sick6 = "I feel nauseous",
 UI_Phrases_Sick7 = "do I have a fever?",
 UI_Phrases_Sick8 = "I have a fever",
+UI_Phrases_Sick9 = "my head feels hot",
+UI_Phrases_Sick10 = "I'm gonna hurl",
+UI_Phrases_Sick11 = "I'm gonna heave",
+UI_Phrases_Sick12 = "I'm gonna barf",
+UI_Phrases_Sick13 = "I'm gonna throw up",
 
 --UI_Phrases_HeavyLoad
 UI_Config_HeavyLoad = "Heavy Load",
@@ -292,6 +315,10 @@ UI_Phrases_HeavyLoad3 = "this is alot to carry",
 UI_Phrases_HeavyLoad4 = "this is a heavy load",
 UI_Phrases_HeavyLoad5 = "<SWEAR>, this is heavy",
 UI_Phrases_HeavyLoad6 = "<Pain>. my back",
+UI_Phrases_HeavyLoad7 = "man this is heavy",
+UI_Phrases_HeavyLoad8 = "holy crap this is heavy",
+UI_Phrases_HeavyLoad9 = "I might need a forklift for this",
+UI_Phrases_HeavyLoad10 = "I might need a wheelbarrow for this",
 
 --UI_Phrases_OnDusk
 UI_Config_OnDusk = "On Dusk",
@@ -305,7 +332,12 @@ UI_Phrases_OnDusk7 = "it's getting harder to see",
 UI_Phrases_OnDusk8 = "it's getting harder to see my surroundings",
 UI_Phrases_OnDusk9 = "it's getting harder to see in the distance",
 UI_Phrases_OnDusk10 = "the darkness is closing in",
-
+UI_Phrases_OnDusk11 = "moonrise",
+UI_Phrases_OnDusk12 = "this is a beautiful sunset",
+UI_Phrases_OnDusk13 = "I always like watching the sunset",
+UI_Phrases_OnDusk14 = "what a day",
+UI_Phrases_OnDusk15 = "what a day, what a day",
+UI_Phrases_OnDusk16 = "what a fucking day,
 
 --UI_Phrases_OnDawn
 UI_Config_OnDawn = "On Dawn",
@@ -313,6 +345,8 @@ UI_Phrases_OnDawn1 = "another day",
 UI_Phrases_OnDawn2 = "made it to another day",
 UI_Phrases_OnDawn3 = "the sun is coming up",
 UI_Phrases_OnDawn4 = "the sun is rising",
+UI_Phrases_OnDawn5 = "the sunrise is beautiful today",
+UI_Phrases_OnDawn6 = "I always like watching the sunrise",
 
 --UI_Phrases_GunJammed
 UI_Config_GunJammed = "Gun Jammed",
@@ -343,6 +377,7 @@ UI_Phrases_OutOfAmmo9 = "gun is empty",
 UI_Phrases_OutOfAmmo10 = "out of bullets",
 UI_Phrases_OutOfAmmo11 = "no bullets",
 UI_Phrases_OutOfAmmo12 = "there is no bullets",
+UI_Phrases_OutOfAmmo13 = "<SWEAR>",
 
 --UI_Phrases_Hungry
 UI_Config_Hungry = "Hungry",
@@ -368,6 +403,7 @@ UI_Phrases_Hungry19 = "where the <SWEAR> is some food!?",
 UI_Phrases_Hungry20 = "I am so hungry",
 UI_Phrases_Hungry21 = "uhnnng. the hunger",
 UI_Phrases_Hungry22 = "I am starving",
+UI_Phrases_Hungry18 = "<Pain>. the hunger.",
 
 --UI_Phrases_Thirst
 UI_Config_Thirst = "Thirst",
@@ -385,6 +421,7 @@ UI_Phrases_Thirst11 = "I really should get something to drink now.",
 UI_Phrases_Thirst12 = "I need some water!",
 UI_Phrases_Thirst13 = "there has to be water somewhere",
 UI_Phrases_Thirst14 = "I need water",
+UI_Phrases_Thirst15 = "my mouth is super dry",
 
 --UI_Phrases_Tired
 UI_Config_Tired = "Tired",
@@ -410,6 +447,8 @@ UI_Phrases_Tired19 = "uhnng, I am so tired",
 UI_Phrases_Tired20 = "I really should go to sleep soon.",
 UI_Phrases_Tired21 = "*your eyelids feel heavy*",
 UI_Phrases_Tired22 = "I can barely stand. I am so tired.",
+UI_Phrases_Tired23 = "I miss my bed",
+UI_Phrases_Tired24 = "<SWEAR> I am tired.",
 
 --UI_Phrases_Bored
 UI_Config_Bored = "Bored",
@@ -428,7 +467,10 @@ UI_Phrases_Bored12 = "*deep sigh*",
 UI_Phrases_Bored13 = "I really need something to do",
 UI_Phrases_Bored14 = "there has gotta be something to do! something! anything! aghh!",
 UI_Phrases_Bored15 = "sticking spoons in my eyes would be better than this",
-UI_Phrases_Bored16 = "this is boredom is driving me insane!",
+UI_Phrases_Bored16 = "this boredom is driving me insane!",
+UI_Phrases_Bored17 = "this boredom is driving me crazy!",
+UI_Phrases_Bored18 = "I would rather have a tea party with a zombie",
+UI_Phrases_Bored19 = "I would rather do anything else",
 
 --UI_Phrases_Stress
 UI_Config_Stress = "Stress",
@@ -444,6 +486,8 @@ UI_Phrases_Stress9 = "this stress is going to kill me",
 UI_Phrases_Stress10 = "can't anymore",
 UI_Phrases_Stress11 = "this fucking stress is killing me",
 UI_Phrases_Stress12 = "fuck this bullshit",
+UI_Phrases_Stress13 = "my head is killing me",
+UI_Phrases_Stress14 = "I can't do this",
 
 --UI_Phrases_Agoraphobic
 UI_Config_Agoraphobic = "Agoraphobic",
@@ -453,6 +497,7 @@ UI_Phrases_Agoraphobic3 = "should not be outside",
 UI_Phrases_Agoraphobic4 = "I should not be doing this",
 UI_Phrases_Agoraphobic5 = "what was that?",
 UI_Phrases_Agoraphobic6 = "why can't I stay inside?",
+UI_Phrases_Agoraphobic7 = "I don't want to be out here",
 
 --UI_Phrases_Claustrophobic
 UI_Config_Claustrophobic = "Claustrophobic",
@@ -462,6 +507,8 @@ UI_Phrases_Claustrophobic3 = "the walls are closing in",
 UI_Phrases_Claustrophobic4 = "*deep breaths*",
 UI_Phrases_Claustrophobic5 = "<SWEAR>, I hate this",
 UI_Phrases_Claustrophobic6 = "I can't breath in here",
+UI_Phrases_Claustrophobic7 = "*fast breathing*",
+UI_Phrases_Claustrophobic8 = "*really fast breathing*",
 
 --UI_Phrases_Panic
 UI_Config_Panic = "Panic",
@@ -488,12 +535,14 @@ UI_Phrases_Panic20 = "please no!",
 UI_Phrases_Panic21 = "somebody help!",
 UI_Phrases_Panic22 = "somebody help me!",
 UI_Phrases_Panic23 = "oh god! ahhh!",
+UI_Phrases_Panic24 = "oh god!",
 
 --UI_Phrases_Hypothermia
 UI_Config_Hypothermia = "Hypothermia",
 UI_Phrases_Hypothermia1 = "it is so cold",
 UI_Phrases_Hypothermia2 = "brrrrr",
 UI_Phrases_Hypothermia3 = "*shivers*",
+UI_Phrases_Hypothermia4 = "<SARCASM>, the cold",
 
 --UI_Phrases_Pain
 UI_Config_Pain = "Pain",
@@ -526,6 +575,7 @@ UI_Phrases_SWEAR2 = "damn",
 UI_Phrases_SWEAR3 = "god damn",
 UI_Phrases_SWEAR4 = "shit",
 UI_Phrases_SWEAR5 = "fuck",
+UI_Phrases_SWEAR6 = "damn it",
 
 --UI_Phrases_Plosives
 UI_Phrases_Plosives1 = "f",
@@ -576,6 +626,11 @@ UI_Phrases_FOOD25 = "a bucket of Jay's Chicken",
 UI_Phrases_FOOD26 = "an order of Jay's biscuits with gravy",
 UI_Phrases_FOOD27 = "eating anything",
 UI_Phrases_FOOD28 = "anything to eat",
+UI_Phrases_FOOD29 = "a everything bagel",
+UI_Phrases_FOOD30 = "a bagel with cream cheese",
+UI_Phrases_FOOD31 = "a entire pizza",
+UI_Phrases_FOOD32 = "some cereal",
+UI_Phrases_FOOD33 = "a bowl of cereal",
 
 --UI_Phrases_SARCASM
 UI_Phrases_SARCASM1 = "just great",
@@ -583,12 +638,15 @@ UI_Phrases_SARCASM2 = "awesome",
 UI_Phrases_SARCASM3 = "fantastic",
 UI_Phrases_SARCASM4 = "just what I needed",
 UI_Phrases_SARCASM5 = "just my luck",
+UI_Phrases_SARCASM6 = "of course",
+UI_Phrases_SARCASM7 = "oh great",
 
 --UI_Phrases_AMOUNT
 UI_Phrases_AMOUNT1 = "super",
 UI_Phrases_AMOUNT2 = "pretty",
 UI_Phrases_AMOUNT3 = "really",
 UI_Phrases_AMOUNT4 = "incredibly",
+=======
 
 --These set of phrases are unique in that they are parsed to replace the string before `:` with the one after it.
 --The left side of the `:` should be ONLY 1 character
@@ -600,6 +658,7 @@ UI_Phrases_Slurring4 = "u:oo",
 UI_Phrases_Slurring5 = "c:sch",
 UI_Phrases_Slurring6 = "tion:shun",
 UI_Phrases_Slurring7 = "i:ii",
+UI_Phrases_Slurring8 = "my:mi",
 
 --UI_Phrases_Congested
 UI_Phrases_Congested1 = "k:g",
