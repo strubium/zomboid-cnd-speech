@@ -631,8 +631,11 @@ UI_Phrases_FOOD28 = "anything to eat",
 UI_Phrases_FOOD29 = "a everything bagel",
 UI_Phrases_FOOD30 = "a bagel with cream cheese",
 UI_Phrases_FOOD31 = "a entire pizza",
-UI_Phrases_FOOD32 = "some cereal",
-UI_Phrases_FOOD33 = "a bowl of cereal",
+UI_Phrases_FOOD32 = "a entire large pizza",
+UI_Phrases_FOOD33 = "some cereal",
+UI_Phrases_FOOD34 = "a bowl of cereal",
+UI_Phrases_FOOD35 = "some fries",
+UI_Phrases_FOOD36 = "some salty fries",
 
 --UI_Phrases_SARCASM
 UI_Phrases_SARCASM1 = "just great",
