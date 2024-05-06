@@ -487,7 +487,9 @@ UI_Phrases_Stress10 = "can't anymore",
 UI_Phrases_Stress11 = "this fucking stress is killing me",
 UI_Phrases_Stress12 = "fuck this bullshit",
 UI_Phrases_Stress13 = "my head is killing me",
-UI_Phrases_Stress14 = "I can't do this",
+UI_Phrases_Stress14 = "my fucking head is killing me",
+UI_Phrases_Stress15 = "I can't do this",
+UI_Phrases_Stress16 = "I can't do this anymore",
 
 --UI_Phrases_Agoraphobic
 UI_Config_Agoraphobic = "Agoraphobic",
