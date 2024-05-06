@@ -646,7 +646,6 @@ UI_Phrases_AMOUNT1 = "super",
 UI_Phrases_AMOUNT2 = "pretty",
 UI_Phrases_AMOUNT3 = "really",
 UI_Phrases_AMOUNT4 = "incredibly",
-=======
 
 --These set of phrases are unique in that they are parsed to replace the string before `:` with the one after it.
 --The left side of the `:` should be ONLY 1 character
